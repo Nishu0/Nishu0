@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nisarg Thakkar
 - 👀 I’m interested in C, C++.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate with others student.
 - 🥅 2021 Goals: Making one small project
 
