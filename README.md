@@ -1,6 +1,6 @@
 - 👋 Hola, I’m Nisarg Thakkar
 - 👀 I’m interested in C, C++
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Java and Python(Pygame)
 - 💞️ I’m looking to collaborate with others student
 - 🥅 2021 Goals: To learn Data Structures and Algorithms
 
