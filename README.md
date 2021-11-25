@@ -1,15 +1,38 @@
-- 👋 Hola, I’m Nisarg Thakkar
-- 👀 I’m interested in C, C++
-- 🌱 I’m currently learning Java and Python(Pygame)
-- 💞️ I’m looking to collaborate with others student
-- 🥅 2021 Goals: To learn Data Structures and Algorithms
+<h1 align="center">Hey, I'm Nisarg Thakkar <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h2 align="center">A little improvement each day makes a big difference over time.</h2>
 
-### Connect with me:
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
-<a href="https://www.linkedin.com/in/nisarg-thakkar-08811a21a" rel="nofollow"><img align="left" alt="Nishu | LinkedIn" width="22px" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"></a>
+  
+   
+   ## :wave: About Me 
+<a href="https://www.linkedin.com/in/nisarg-thakkar-08811a21a" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+👩‍🎓 Hey! I'm Nisarg, a second year student pursuing Information Technology Engineering @ Charusat University.
 
 
-<!---
-Nishu0/Nishu0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💖 I’m looking to collaborate with others student.
+
+👩‍💻 Nowadays, I’m learning  Data Structures and Algorithms, Python.   
+
+
+
+<br> 
+
+## 🛠 &nbsp;Tech Stack
+
+- 💻 &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
