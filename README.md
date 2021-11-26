@@ -43,4 +43,4 @@
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishu0&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
    <br />
-   ![Skyline]()
+   ![Actions](https://github.com/Nishu0/Nishu0/blob/main/github-metrics.svg)
