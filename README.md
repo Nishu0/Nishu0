@@ -36,3 +36,11 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
+
+ [![Nisarg's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Nishu0&theme=xcode)](https://git.io/)
+   <br />
+   <br />
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishu0&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+   <br />
+   <br />
+   ![Skyline]()
