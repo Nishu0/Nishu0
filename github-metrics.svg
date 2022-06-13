@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    9.49k added, 1.18k removed
+                                    9.71k added, 1.20k removed
                                 </div>
                             </section>
                             <section>
@@ -347,14 +347,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Nishu0/JavaScript_Examples</span>
+                                        <span class="repo">Nishu0/Login_Register_Nodejs_Express_Passport</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#994b262</div>
-                                        <div class="message">Create for_each.js</div>
+                                        <div class="sha">#c95af7a</div>
+                                        <div class="message">Create package.json</div>
                                     </div>
                                 </div>
                             </section>
@@ -367,14 +367,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Nishu0/JavaScript_Examples</span>
+                                        <span class="repo">Nishu0/Login_Register_Nodejs_Express_Passport</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a651111</div>
-                                        <div class="message">Create for_in.js</div>
+                                        <div class="sha">#4ba8217</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -387,14 +387,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Nishu0/JavaScript_Examples</span>
+                                        <span class="repo">Nishu0/Login_Register_Nodejs_Express_Passport</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1d8d273</div>
-                                        <div class="message">Create for_of.js</div>
+                                        <div class="sha">#443280e</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -407,14 +407,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Nishu0/JavaScript_Examples</span>
+                                        <span class="repo">Nishu0/Login_Register_Nodejs_Express_Passport</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fa63385</div>
-                                        <div class="message">Rename number.js to Number.js</div>
+                                        <div class="sha">#0576e16</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -427,14 +427,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Nishu0/JavaScript_Examples</span>
+                                        <span class="repo">Nishu0/Login_Register_Nodejs_Express_Passport</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8d2aa9d</div>
-                                        <div class="message">Create Function.js</div>
+                                        <div class="sha">#be7b6b1</div>
+                                        <div class="message">Create User.js</div>
                                     </div>
                                 </div>
                             </section>
@@ -444,7 +444,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jun 2022, 19:11:01 (timezone Asia/Calcutta) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 13 Jun 2022, 20:01:15 (timezone Asia/Calcutta) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
