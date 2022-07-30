@@ -36,6 +36,14 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
+<hr>
+<h2>Watch my contributions graph eaten by snake 🐍</h2>
+<div align="center">
+<a href="https://github.com/nishu0">
+    <img src="https://github.com/nishu0/nishu0/blob/output/github-contribution-grid-snake.gif" width="100%">
+  </a>
+</div>
+<hr>
 
  [![Nisarg's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Nishu0&theme=xcode)](https://git.io/)
    <br />
