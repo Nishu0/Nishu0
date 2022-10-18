@@ -12,7 +12,7 @@
 
 💖 I’m looking to collaborate with others student.
 
-👩‍💻 Nowadays, I’m learning  Data Structures and Algorithms, Python.   
+👩‍💻 Nowadays, I’m learning Blockchain & NextJS.   
 
 
 
