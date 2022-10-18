@@ -7,7 +7,7 @@
    
    ## :wave: About Me 
 <a href="https://www.linkedin.com/in/nisarg-thakkar-08811a21a" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👩‍🎓 Hey! I'm Nisarg, a second year student pursuing Information Technology Engineering @ Charusat University.
+👩‍🎓 Hey! I'm Nisarg, a third year student pursuing Information Technology Engineering @ Charusat University.
 
 
 💖 I’m looking to collaborate with others student.
