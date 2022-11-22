@@ -41,7 +41,7 @@ I write about things I am familiar with, things that trip up folks that I study 
  ```javascript
  function introduction() {  
 	name='Nisarg Thakkar'
-	age=19
+	age=20
 	education=['DEPSTAR, CHARUSAT UNIVERSITY','St. Xavier’s High School Loyola Hall']
 	hobbies=['Cricket','Music','Reading']
 }
