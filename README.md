@@ -1,7 +1,17 @@
 <h1 align="center">Hey, I'm Nisarg Thakkar 👋</h1> 
 <h2 align="center">A little improvement each day makes a big difference over time.</h2>
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"></p>
+
+<p align="center">
+	
+## #30NitesOfCode:
+
+  [Check out my progress!](https://www.codedex.io/@Nishu0/30-nites-of-code)  
+  ![@Nishu0 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Nishu0)
+
+</p>
+
 
   
   --- 
