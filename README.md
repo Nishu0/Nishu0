@@ -6,7 +6,6 @@
 <p align="center">
 	
 ## #30NitesOfCode:
-
   [Check out my progress!](https://www.codedex.io/@Nishu0/30-nites-of-code)  
   ![@Nishu0 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Nishu0)
 
