@@ -3,14 +3,6 @@
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"></p>
 
-<p align="center">
-	
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Nishu0/30-nites-of-code)  
-  ![@Nishu0 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Nishu0)
-
-</p>
-
 
   
   --- 
@@ -19,7 +11,7 @@
 👩‍🎓 Hey! I'm Nisarg, a Bachelor of Technology Graduate working as a Move Smart Contract Developer.
 
 
-💖 I’m looking to collaborate with others student.
+💖 I’m looking to participate in as many Hackathons as possible(Current Count: 31).
 
 👩‍💻 Nowadays, I’m learning Rust & AI Agents.   
 
