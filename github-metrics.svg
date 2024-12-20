@@ -32,12 +32,12 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.14m added, 110k removed
+                                    1.02m added, 93.5k removed
                                 </div>
                             </section>
                             <section>
@@ -377,6 +377,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#f4bbb1e</div>
+                                        <div class="message"><img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAADaUlEQVR4nO2b204bVxiF9xOB57hnbJqbKn2ACuUVW5I0aZtyDiZgMCaUQwLxjDG46ZEZD+UB6rFXtaJcxdKvXMRc/PaSvrtv5L3WzIXlkY2ZZZZ7Se+49uiytZB3WguQ6B4+yHpHXy0abem2FrL3JzUUiQyd7uHCjdGWzkENt2kNyKsidOgalQMkNSCritDROUCzhtt2DbipitCha3QOUAVuYhE6OgfY/zjAP7HIhwH2ZwPAaEtnr4bbd1Xg71iEDl2jLWmjhuKiitFfsQgdukZb0kYVxQVLRiJ06BqVA5zHGP0ZidCZDdDQ+ATsVlG8jTH6IxKhQ9doS7pTRfEmxuj3SIQOXaMt6dQP8CpGcRZh9N6K0KFrtCWd+gG2YxSnEUa/WRE6dI22pLMBYhQnEUY9K0JH5xNQj1EcRxhdWxE6dI22pPUIxTFLhiJ06BpN6e3bb5KtCHdnFsOrUIQO3d6efXivh+zuRI/SrSjnh0+Cq50Ig0u5PKFDd1Ln6NTjrLttx987dOpx1tuNkB/ZL87dqcWgE2LY/Tzo8ppJnIUd03o8/t4h2YzQP7IY8i4phh3ZdTbAp0k2LfqvLYadQDXsyK6zAT5NsmHRP7QYpoFq2JFdxwdYt+i3LIZJoBp2ZNfxAdYs+gchhm1fNezIruMDrFr0myGG73zVsCO7jg3QWbdZ72WIohl8ce5aAQbnPoYXnwddXjOJs7BjumbHvwh1V+xishZmyUqISXC1EeC/tx7Kcxk6dCd1jnQ1vLmuB9+a+8zluv8wWQ7x74GPkiMI3DZ90O1sBF8bTUl+CZE3ApRvPBE6dI22JC8C5Ls+yjNXhA5do3KAHR/lqStCR+cAPwfIX/koT1wROnSNtiRTP8BPPvJtD+WxI0KHrtGW5Ecfed1D+asjQoeu0ZZk6gd47iPf8lAeOSJ06BptSZ57yF+6KF9XROjQNdqSPPs4wGFF5MMAz2YDwGhL8oOHfNNF2aqI0KFrtKX91EO24WBwMC9Ch67RlvYTD9m6g0FzXoQOXaMt7dkAHrI1B4P9eRE6Op+Axy6y1QoGe3MidOgabWlP/QBLLrKVCgaNORE6dI22tL93kS1XMNidE6FD12hLsuRk108d5MvzInSSJVffHye7j51FjtD+zoEEy18/ce/3d/tZzPTmf73WASVohBoqAAAAAElFTkSuQmCC" height="16" width="16" alt="" /> Updated Math Module - Math128 and Test Cases</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Qiro-Protocol/Move_Contract_Tests</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#4e80ccf</div>
                                         <div class="message"><img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEvklEQVR4nO2Yz0+jRRzGXwp9gaa/KHtQz15MvIiJHjyQePIfMd78cTLRGLl5MCwVBYHdhQXemXn7lpdSWgoCXQ/Gg8mu0RhNCiyN6HIwy2X33dXE4GOeWhKjxSUyQGfzfpPnQsvMZz7vd2be1LLCCutMynXdZ4QQQ1LKLxzH2RVCBI7j4CQRQvwmhNiTUn6llPrQ87wXLFNqdnb2OcdxKkeL8TwPi4uLKBQKWFpaOlH4Xd/3kcvlKKMxjpTyW8/zXrHatYaGhiJSyjHHcQ6llFheXsbGxgaq1eqpwjE4llLqSERuZmamx2qnKhaLCSHEDQLy6W1ubp564a3C7mhK+NrzvCesdigAHUKIClu1VCqdycL/nnK5TAHcGrfaohOklFk+FbbpWS/+KCsrK41OUErNX+jiXdd9VgjxOw+542ArlUqjdfP5PBYWFk4UfpdbaXV19dhx+bnjOH/4vv/ShQlQSjVav9Vht76+3lhI8zZ4wFNcKfXlSSKl/I5XIf+XY7Qan+cMtwK/f1GLf0oIcVgsFlsu3nVdLvy+Uuqt/7NXPc+Lu677rhDiV94ArSRw7uZV+7R13iWlfJOTr62t/QuMbcwXH6XUixrmeZndwPeCVqLJQFHWeZfrust8Mv+EohDdUFLKD46TTQYp5ap13iWEuMUn3aotmwdjv665fN9/ki9YrbYbGRzH+cY675JS/tyqLfk3fnYG8+3/x3z7uud7ZEkpD3gVtQISQuxYmktKudNKABmEEAe653tkhQJk2AEH4RYohGcAwkOwGt4CCK/BavgegMf+RajuZd7Ydvt3ttz+w5rqRzuGbGSs5/pf17r427nM+5zgJz+Nu6U4DsrtGbLt+emGjN185j0ti//es+wtdenhfiEFfN5tRO4sprDtXnr4i2fFTy1g200N1EQG91ZiwA3biJCVzPWF5Kl/kLHqMj1YczIIKjGgahsRspKZ7HoEzGcQsAM2bSNCVjLrFVCOARu2ESGrPgFz6cHaXAZBKQas20aErGQmux4Bs30IlnuBz6JGhKxk1ifgeh+CYi+wFjUiZCVzKGBOVwfM9CFY6gVWo0aErGTWK6DQC1SiRoSs+gRMpwdr02kEiz3ASpcRISuZya5HwLU0Ar8HKHcZEbKSWZ+Aq2kECz1AqcuIkJXM+gRcaQpY7jIiDQFXdAmYagrI9wDFLiNC1oaAKV0CplIIvG5gqdOIkJXM+gRMphDkuoFCpxEhK5n1CZhIIXC7gcVOI0JWMocCpnR1wKcpBKob8DuNCFnJrEfAePwvAdIGFiJGhKwNAeNxTQLGUwiEDeQjRoSsZNYnYCyFwLEBL2JEyEpmfQI+SSGYt4FcxIiQlcz6BHycQjBnA27EiJCVzHoEjDYFzNqAihgRsjYEjOoSMJpEcD0KyA4jQlYy6xPwURLBTBQQHUaErGTWJyCbRDAdBZwOI0JWMusTMJJEcC0KzHcYEbKSWYuA7ZHYAAe7d9UcAWQl8w8jsYFTC7g5aUW3ssngzlgvMGcZEbLWRpL3b04+H7V01G428U7tcgJ7ozHcnejGwYTdliHbj6MxkPV2NvG2pbPq2fhrW5cT9dpw4rA2nECb5nBrOLG7m028qnXxYVmPb/0JW4buvrdFSDoAAAAASUVORK5CYII=" height="16" width="16" alt="" /> Updated Auth Module - Is Authorized and Test Cases</div>
                                     </div>
@@ -430,35 +450,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Nishu0/TrendTrove</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">snyk-fix-630f90996037eaa75c8032e262b7bfd5</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#baa49b9</div>
-                                        <div class="message">fix: package.json &amp; package-lock.json to reduce vulnerabilities
-
-The following vulnerabilities are fixed with an upgrade:
-- https://snyk.io/vuln/SNYK-JS-PATHTOREGEXP-8482416</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Dec 2024, 20:52:58 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Dec 2024, 21:57:22 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
