@@ -23,17 +23,7 @@
 
 ## My Digital Garden 🌱
 
-
-<a href="https://nishu0.hashnode.dev/" target="_blank"><img src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-
 I write regular blog posts, most of which you will find on my x profile https://x.com/itsnishu.
-
-I write about things I am familiar with, things that trip up folks that I study with, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
-
-[Latest Post 👉](https://nishu0.hashnode.dev/)
-
-
-💌 Sign up for my [newsletter](https://nishu0.hashnode.dev/newsletter)
 
 ---
 
