@@ -8,7 +8,7 @@
   --- 
    ## :wave: About Me 
 <a href="https://www.linkedin.com/in/nishu0" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👩‍🎓 Hey! I'm Nisarg, a Bachelor of Technology Graduate working as a Move Smart Contract Developer.
+👩‍🎓 Hey! I'm Nisarg, a Bachelor of Technology Graduate working as a Smart Contract Developer.
 
 
 💖 I’m looking to participate in as many Hackathons as possible(Current Count: 31).
@@ -23,7 +23,7 @@
 
 ## My Digital Garden 🌱
 
-I write regular blog posts, most of which you will find on my x profile https://x.com/itsnishu.
+I write regular blog posts, most of which you will find on my x profile https://x.com/itsnishutwt.
 
 ---
 
